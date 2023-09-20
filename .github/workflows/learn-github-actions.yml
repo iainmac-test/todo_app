@@ -20,6 +20,6 @@ jobs:
           cd src/webapp/
           npm install
           npm run test
-          cd e2e/cypress/
+          cd /e2e/cypress/
           npm install
           npm run test
