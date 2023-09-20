@@ -132,4 +132,4 @@ dist
 .idea
 
 #ignore cypress folders
-.e2e/cypress/videos/
+e2e/cypress/videos/
